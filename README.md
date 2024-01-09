@@ -6,3 +6,7 @@
 ### [Factory](https://github.com/pablobfonseca/go-design-patterns/blob/master/factory)
 ### [Prototype](https://github.com/pablobfonseca/go-design-patterns/blob/master/prototype)
 ### [Singleton](https://github.com/pablobfonseca/go-design-patterns/blob/master/singleton)
+
+
+## Structural Patterns
+### [Adapter](https://github.com/pablobfonseca/go-design-patterns/blob/master/adapter)
