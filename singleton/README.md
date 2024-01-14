@@ -5,3 +5,7 @@ Singleton is a creational design pattern, which ensures that only one object of 
 Singleton has almost the same pros and cons as global variables. Although they’re super-handy, they break the modularity of your code.
 
 You can’t just use a class that depends on a Singleton in some other context, without carrying over the Singleton to the other context. Most of the time, this limitation comes up during the creation of unit tests.
+
+## Main article
+
+https://refactoring.guru/design-patterns/singleton
