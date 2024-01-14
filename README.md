@@ -16,3 +16,6 @@
 ### [Facade](https://github.com/pablobfonseca/go-design-patterns/blob/master/facade)
 ### [Flyweight](https://github.com/pablobfonseca/go-design-patterns/blob/master/flyweight)
 ### [Proxy](https://github.com/pablobfonseca/go-design-patterns/blob/master/proxy)
+
+## Behavioral Patterns
+### [Chain of Responsibility](https://github.com/pablobfonseca/go-design-patterns/blob/master/chain-of-responsibility)
