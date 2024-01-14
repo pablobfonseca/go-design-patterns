@@ -10,3 +10,4 @@
 
 ## Structural Patterns
 ### [Adapter](https://github.com/pablobfonseca/go-design-patterns/blob/master/adapter)
+### [Bridge](https://github.com/pablobfonseca/go-design-patterns/blob/master/bridge)
