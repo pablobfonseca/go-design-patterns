@@ -14,3 +14,4 @@
 ### [Composite](https://github.com/pablobfonseca/go-design-patterns/blob/master/composite)
 ### [Decorator](https://github.com/pablobfonseca/go-design-patterns/blob/master/decorator)
 ### [Facade](https://github.com/pablobfonseca/go-design-patterns/blob/master/facade)
+### [Flyweight](https://github.com/pablobfonseca/go-design-patterns/blob/master/flyweight)
