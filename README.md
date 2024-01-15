@@ -19,3 +19,4 @@
 
 ## Behavioral Patterns
 ### [Chain of Responsibility](https://github.com/pablobfonseca/go-design-patterns/blob/master/chain-of-responsibility)
+### [Command](https://github.com/pablobfonseca/go-design-patterns/blob/master/command)
